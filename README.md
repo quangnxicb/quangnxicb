@@ -161,12 +161,12 @@ domains = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangnxicb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=00ff41&text_color=8b949e&border_color=30363d&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangnxicb&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=39FF14&text_color=8b949e&border_color=30363d&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=quangnxicb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=00ff41&text_color=8b949e&border_color=30363d&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quangnxicb&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=39FF14&text_color=8b949e&border_color=30363d&hide_border=true" />
 
 <img width="90%" src="https://streak-stats.demolab.com/?user=quangnxicb&theme=dark&background=0d1117&border=30363d&stroke=39FF14&ring=00ff41&fire=FFD700&currStreakLabel=39FF14&sideLabels=00ff41&dates=8b949e&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=quangnxicb&theme=github-compact&bg_color=0d1117&color=39FF14&line=00ff41&point=FFD700&area=true&hide_border=true" width="90%" />
+<img src="https://raw.githubusercontent.com/quangnxicb/quangnxicb/output/github-snake-dark.svg" alt="Contribution snake" width="90%" />
 
 </div>
 
